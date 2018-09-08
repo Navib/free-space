@@ -14,13 +14,13 @@ Follow influencers and friends message feeds
 
 ### How to start
 
-clone repo change into root and run
+clone repo change into project folder
 
 first install all package dependencies with
 
     npm i -S
 
-the start the server with
+then start the server with
 
     npm run start
 
